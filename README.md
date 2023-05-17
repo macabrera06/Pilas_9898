@@ -6,3 +6,5 @@ TALLER EN CLASES
 4. Agregar sus ejemplos en este repositorio de codigo
 5. fusionar el proyecto en github.
 6. compartir el link.
+
+Miembros de Grupo: Miguel Cabrera, Paul Jaramillo y Gabriel Revelo.
